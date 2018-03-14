@@ -1,5 +1,5 @@
-# ChromeDevTutorial
+# Chrome Dev Tools
 
-## Post 
-- [ ] this is complete item 
--method:GET -method:OPTIONS -method:PUT
+## Fiiter Option on Networking HTTP 
+### GET Post ONLY  
+- [X] -method:GET -method:OPTIONS -method:PUT
