@@ -8,7 +8,7 @@
 - [X] -larger-than:100
 ###### A Status code Response of 200
 - [X] status-code:200
-###### Other NO
+###### Other
 * -domain: www
 * -mime-type: application/* text/* image/*
 * -is: running/from-cache
