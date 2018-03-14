@@ -7,10 +7,15 @@
 - [X] -larger-than:100
 ###### A Status code Response of 200
 - [X] status-code:200
-###### Other
-* domain
-* mime-type
-* scheme
-* set-cookie-domain
-* set-cookie-value
-* has-response-header
+###### Other NO
+* -domain: www
+* -mime-type: application/* text/* image/*
+* -is: running/from-cache
+* -mixed-Content:
+* -method: Get/Post/Option
+* -priorty: high/low lowest/highest
+* -scheme: https exetension
+* -set-cookie-domain
+* -set-cookie-name
+* -set-cookie-value
+* -has-response-header
